@@ -22,11 +22,11 @@ Additionally, I got excited about the [idea](https://kbd.news/Flexible-transpare
 ## Prototype
 
 So there is a prototype!
-Some fails done, some lessons learnt. 
+Some fails done, some lessons learned. 
 ![Top View](./img/top.jpg) ![Bottom View](./img/bottom.jpg) 
 BAV70 diodes, CH555T controller, either FAK firmware... It's all mindblowing things for person, that have done only one PCB in entire life =)
 
-I had a bit of a rough time with sandpaper, and honestly, the outline for laser cutting needs further refinement. Maybe I need to change the approach altogether. Some things that i want to say to prototype:
+I had a bit of a rough time with sandpaper, and honestly, the outline for laser cutting needs further refinement. Maybe I need to change the approach altogether. Some things that i want to say about the prototype:
 
 - You need as much graphical information as possible in different layers in KiCad of the footprints; this will allow creation of very precise outlines in the future. So, even if there is some error accumulation, it will be much smaller.
 - Castellated holes on PCBs can (and actually do) differ from the real board. It seems this wasn't the best decision, but it was quite interesting.
@@ -56,10 +56,11 @@ I had a bit of a rough time with sandpaper, and honestly, the outline for laser 
 | R3                                                              | 0402                                    | 1        | 10k             | C25744      | € 0.0005   | € 0.0005    |
 | U1                                                              | SOT-23-6                                | 1        | USBLC6-2SC6     | C2687116    | € 0.0299   | € 0.0299    |
 | U2                                                              | TSSOP-20_4.4x6.5mm_P0.65mm              | 1        | CH552T          | C111367     | € 0.4678   | € 0.4678    |
-| **PCB Fabrication (for 2 PCBs)**                                | jlcpcb                                | 2        | -               | -           | € 1.00     | € 2.00      |
-| **Acrylic Sheet**                                              | ebay                                       | 1        | -               | -           | € 11.88    | € 11.88     |
-| **Laser Cutting**                                              | Local Fablab                            | -        | -               | -           | € 7.45     | € 7.45      |
-| **Total Cost**                                                 |                                         |          |                 |             |            | **€ 23.0279** |
+| **PCB Fabrication (for 2 PCBs)**                                | jlcpcb                                  | 2        | -               | -           | € 0.500    | € 1.00      |
+| **Acrylic Sheet**                                              | ebay                                    | 1        | -               | -           | € 11.88    | € 11.88     |
+| **Laser Cutting**                                              | Local Fablab                            | 1        | -               | -           | € 7.45     | € 7.45      |
+| **Total Cost**                                                 |                                         |          |                 |             |            | **€ 22.8728** |
+
 
  Prices are excluding supplier shipping costs.
 
