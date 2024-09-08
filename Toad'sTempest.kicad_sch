@@ -4,6 +4,11 @@
 	(generator_version "8.0")
 	(uuid "378e1f0a-ec39-4179-957b-51f1fc007b13")
 	(paper "A3")
+	(title_block
+		(title "\"Toad'sTempest\" mechanical keyboard")
+		(company "T1K1N$0N")
+		(comment 1 "https://github.com/tikinson/ToadsTempest")
+	)
 	(lib_symbols
 		(symbol "Connector:USB_C_Receptacle_USB2.0"
 			(pin_names
