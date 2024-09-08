@@ -15,7 +15,7 @@ Super small custom 42-keys column-staggered ergonomic mechanical keyboard powere
 
 My idea was to design a keyboard that could offer a typing experience comparable to keyboards using Novelkeys Cream Clickie switches. I accidentally stumbled upon [Teardown video](https://youtu.be/nNLSzOhqwmU?list=PL285ATFsHGY8kPPWWqasQInV_eqhqRRge) and thought it might be interesting to try to create something similar for the contest. I found [some affordable buttons](https://www.lcsc.com/product-detail/Tactile-Switches_BZCN-TSC003B0810A_C2888968.html) that work with similar membranes, which reminded me of buttons from old mobile phones. If you place an actuator above them and organize the space to conveniently place springs, it could resemble (maybe?) the Novelkeys Cream Clickie switches.
 
-My first sketch looked like this: ![sketch](./img/sketch.jpg). However, there wasn’t enough vertical space for such a design, so I simplified it as much as possible in my mind.
+There wasn’t enough vertical space for such a design, so I simplified it as much as possible in my mind.
 
 Additionally, I got excited about the [idea](https://kbd.news/Flexible-transparent-PCB-1638.html) of using a transparent PCB. This could add a unique aesthetic while allowing the internal components and wiring to be visible, making the design even more interesting. Unfourtunatly, that's not so cheap. So maybe i'll save idea of acrylic 'sandwich' with transparent PCB for next projects.
 
