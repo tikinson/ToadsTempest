@@ -74,7 +74,7 @@ I had a bit of a rough time with sandpaper, and honestly, the outline for laser 
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
 | LSFT| A   | S   | D   | F   | G   | H   | J   | K   | L   | ;   | '   |
 | LCTL| Z   | X   | C   | V   | B   | N   | M   | ,   | .   | /   | LALT|
-| SPC | MO1 | LGUI| BSPC| MO2 | ENT |
+|&nbsp;|&nbsp;|&nbsp;| SPC | MO1 | LGUI| BSPC| MO2 | ENT |
 
 - **MO1**: Layer Toggle (Layer 1)
 - **MO2**: Layer Toggle (Layer 2)
@@ -87,7 +87,7 @@ I had a bit of a rough time with sandpaper, and honestly, the outline for laser 
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
 | LSFT| HOME| PGDN| PGUP| END | TTTT| TTTT| LEFT| DOWN| UP  | RGHT| TTTT|
 | LCTL| TTTT| TTTT| TTTT| TTTT| TTTT| TTTT| TTTT| TTTT| TTTT| TTTT| TTTT|
-| SPC | XXXX| LGUI| BSPC| XXXX| ENT |
+|&nbsp;|&nbsp;|&nbsp;| SPC | XXXX| LGUI| BSPC| XXXX| ENT |
 
 ---
 
@@ -97,7 +97,7 @@ I had a bit of a rough time with sandpaper, and honestly, the outline for laser 
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
 | LSFT| TTTT| TTTT| TTTT| TTTT| TTTT| -   | =   | `   | [   | ]   | \   |
 | LCTL| TTTT| TTTT| TTTT| TTTT| TTTT| TTTT| TTTT| TTTT| TTTT| TTTT| TTTT|
-| SPC | XXXX| LGUI| BSPC| XXXX| ENT |
+|&nbsp;|&nbsp;|&nbsp;| SPC | XXXX| LGUI| BSPC| XXXX| ENT |
 
 
 ## CONCLUSIONS
