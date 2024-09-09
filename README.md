@@ -44,22 +44,29 @@ I had a bit of a rough time with sandpaper, and honestly, the outline for laser 
 
 ## BOM
 
-| Designator                                                     | Footprint                               | Quantity | Value           | LCSC Part # | Unit Price | Total Price |
-|----------------------------------------------------------------|-----------------------------------------|----------|-----------------|-------------|------------|-------------|
-| BOOT, RESET, SW1-SW42                                         | BZCN-tsc003                             | 44       | BOOT, RESET, SW_Push | C115357     | € 0.0122   | € 0.5368    |
-| C1, C2                                                         | 0402                                    | 2        | 100nF           | C1525       | € 0.0011   | € 0.0022    |
-| D1-D21                                                          | SOT-23_Handsoldering                    | 21       | BAV70_Small     | C727123     | € 0.0072   | € 0.1512    |
-| D22                                                             | 0402                                    | 1        | PMEG2010EA      | C2837790    | € 0.0239   | € 0.0239    |
-| F1                                                              | 0402                                    | 1        | 500mA           | C210357     | € 0.0305   | € 0.0305    |
-| J1                                                              | USB_C_Receptacle_HRO_TYPE-C-31-M-12     | 1        | USB_C_Receptacle_USB2.0 | C2765186    | € 1.2500   | € 1.2500    |
-| R1, R2                                                           | 0402                                    | 2        | 5.1k            | C25905      | € 0.0005   | € 0.0010    |
-| R3                                                              | 0402                                    | 1        | 10k             | C25744      | € 0.0005   | € 0.0005    |
-| U1                                                              | SOT-23-6                                | 1        | USBLC6-2SC6     | C2687116    | € 0.0299   | € 0.0299    |
-| U2                                                              | TSSOP-20_4.4x6.5mm_P0.65mm              | 1        | CH552T          | C111367     | € 0.4678   | € 0.4678    |
-| **PCB Fabrication (for 2 PCBs)**                                | jlcpcb                                  | 2        | -               | -           | € 0.500    | € 1.00      |
-| **Acrylic Sheet**                                              | ebay                                    | 1        | -               | -           | € 11.88    | € 11.88     |
-| **Laser Cutting**                                              | Local Fablab                            | 1        | -               | -           | € 7.45     | € 7.45      |
-| **Total Cost**                                                 |                                         |          |                 |             |            | **€ 22.8728** |
+## BOM
+
+| Designator                                                 | Footprint                               | Quantity | Value              | LCSC Part #   | Unit Price | Total Price |
+|------------------------------------------------------------|-----------------------------------------|----------|--------------------|---------------|------------|-------------|
+| BOOT, RESET, SW1-SW42                                       | BZCN-tsc003                             | 44       | BOOT, RESET, SW_Push| C115357       | € 0.0122   | € 0.5368    |
+| C1, C2                                                      | 0402                                    | 2        | 100nF              | C1525         | € 0.0011   | € 0.0022    |
+| D1-D21                                                      | SOT-23_Handsoldering                    | 21       | BAV70_Small        | C727123       | € 0.0072   | € 0.1512    |
+| D22                                                         | 0402                                    | 1        | PMEG2010EA         | C2837790      | € 0.0239   | € 0.0239    |
+| F1                                                          | 0402                                    | 1        | 500mA              | C210357       | € 0.0305   | € 0.0305    |
+| J1                                                          | USB_C_Receptacle_HRO_TYPE-C-31-M-12     | 1        | USB_C_Receptacle_USB2.0 | C2765186 | € 1.2500   | € 1.2500    |
+| R1, R2                                                      | 0402                                    | 2        | 5.1k               | C25905        | € 0.0005   | € 0.0010    |
+| R3                                                          | 0402                                    | 1        | 10k                | C25744        | € 0.0005   | € 0.0005    |
+| U1                                                          | SOT-23-6                                | 1        | USBLC6-2SC6        | C2687116      | € 0.0299   | € 0.0299    |
+| U2                                                          | TSSOP-20_4.4x6.5mm_P0.65mm              | 1        | CH552T             | C111367       | € 0.4678   | € 0.4678    |
+| **Springs (42 units)**                                      | -                                      | 42       | -                  | C22365223     | € 0.0276   | € 1.1592    |
+| **Round Standoff M2 (8 units)**                             | -                                      | 8        | -                  | AliExpress    | € 0.0718   | € 0.5744    |
+| **Hexagon Head Screws M2 (16 units)**                       | -                                      | 16       | -                  | AliExpress    | € 0.0286   | € 0.4576    |
+| **Silicone Feet (7 units)**                                 | -                                      | 7        | -                  | Amazon        | € 0.0300   | € 0.2100    |
+| **PCB Fabrication (for 2 PCBs)**                            | jlcpcb                                  | 2        | -                  | -             | € 0.500    | € 1.00      |
+| **Acrylic Sheet**                                           | ebay                                    | 1        | -                  | -             | € 11.88    | € 11.88     |
+| **Laser Cutting**                                           | Local Fablab                            | 1        | -                  | -             | € 7.45     | € 7.45      |
+| **Total Cost**                                              |                                         |          |                    |               |            | **€ 25.2740** |
+
 
 
  Prices are excluding supplier shipping costs.
