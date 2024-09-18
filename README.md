@@ -9,7 +9,7 @@ So, after some times I made this:
 
 Super small custom 42-keys column-staggered ergonomic mechanical keyboard powered by CH552T microcontroller, created for [pocket keyboard design contest #00](https://chrischrislolo.github.io/orthoLabLogs/pocket-keyboard-design-contest-00.html)
 
-![Top View of the Keyboard](./img/Toad'sTempestF.png) ![Bottom View of the Keyboard](./img/Toad'sTempestB.png)
+![Top View of the Keyboard](./img/ToadsTempestPCB.JPG)
 
 ## Idea
 
@@ -23,7 +23,7 @@ Additionally, I got excited about the [idea](https://kbd.news/Flexible-transpare
 
 So there is a prototype!
 Some fails done, some lessons learned. 
-![Top View](./img/top.jpg) ![Bottom View](./img/bottom.jpg) 
+![Top View](./img/ToadsTempestF.JPG) ![Bottom View](./img/ToadsTempestB.JPG) 
 BAV70 diodes, CH555T controller, either FAK firmware... It's all mindblowing things for person, that have done only one PCB in entire life =)
 
 I had a bit of a rough time with sandpaper, and honestly, the outline for laser cutting needs further refinement. Maybe I need to change the approach altogether. Some things that i want to say about the prototype:
@@ -31,7 +31,7 @@ I had a bit of a rough time with sandpaper, and honestly, the outline for laser 
 - You need as much graphical information as possible in different layers in KiCad of the footprints; this will allow creation of very precise outlines in the future. So, even if there is some error accumulation, it will be much smaller.
 - Castellated holes on PCBs can (and actually do) differ from the real board. It seems this wasn't the best decision, but it was quite interesting.
 - Colored acrylic and transparent acrylic are two different things.
-- Directly copying the button layout from a previous project was a mistake.
+- Directly copying the button layout from a previous project was a mistake.i
 - Always check footprints against the manufacturer's data.
 - LEDs, at least for indicating whether the keyboard is connected to the computer.
 - Don’t mix up the pins; otherwise, you’ll have to solder wires and cut traces on the PCB.
